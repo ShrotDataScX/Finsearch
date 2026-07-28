@@ -26,8 +26,6 @@ Ensemble models may achieve slightly better discrimination, but a regularized Lo
 | `Credit_Scoring_Algorithms_Analysis.ipynb` | Complete executable analysis |
 | `FinSearch_End_Term_Report.pdf` | Submission-ready research report |
 | `Research_Idea_and_Methodology.md` | Concise research definition |
-| `Video_Presentation_Script.md` | Approximately 6-minute video script |
-| `SUBMISSION_CHECKLIST.md` | Final upload and access checklist |
 | `requirements.txt` | Python dependencies |
 
 ### Running the notebook
